@@ -22,3 +22,4 @@ if (process.env.NODE_ENV !== "production") {
 }
 
 export const db = drizzle(pool);
+// export const db = drizzle(pool);
