@@ -22,7 +22,7 @@
    │  Agent  │    │  Agent  │    │   Agent    │
    └────┬────┘    └────┬────┘    └─────┬──────┘
         │              │               │
-        ▼              ▼               ▼
+        ▼              ▼               ▼  
    Implementation Plan  Code V1     Review
         │              │               │
         │              ▼               │
