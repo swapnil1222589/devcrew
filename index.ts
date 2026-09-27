@@ -9,7 +9,7 @@ if (!databaseUrl) {
 
 const globalForDb = globalThis as typeof globalThis & {
   __arenaNextJsPostgresqlPool?: Pool;
-};
+}; 
 
 export const pool =
   globalForDb.__arenaNextJsPostgresqlPool ??
