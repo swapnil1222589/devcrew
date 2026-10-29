@@ -4,7 +4,7 @@ A polished hackathon prototype demonstrating a collaborative multi-agent AI engi
 
 ## Concept  
 
-DevCrew is a team of specialized AI agents that collaborate on real software engineering tasks:
+DevCrew is a team of specialized AI agents that collaborate on real software engineering tasks: 
 
 - **Planner Agent** — Decomposes requirements
 - **Coder Agent** — Writes and fixes code
