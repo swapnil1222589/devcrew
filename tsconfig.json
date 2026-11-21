@@ -2,7 +2,7 @@
   "compilerOptions": {
     "target": "ES2017",
     "lib": [
-      "dom",
+      "dom", 
       "dom.iterable",
       "esnext"
     ],
