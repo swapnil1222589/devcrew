@@ -2,7 +2,7 @@
 
 A polished hackathon prototype demonstrating a collaborative multi-agent AI engineering platform.
 
-## Concept  
+## Concept   
 
 DevCrew is a team of specialized AI agents that collaborate on real software engineering tasks: 
 
