@@ -73,7 +73,7 @@ Click **Demo Mode** in the sidebar, or click the **🚀 Start DevCrew** button w
 4. Tester fails (`ZeroDivisionError`)
 5. Coder applies the fix
 6. Tester passes all 5/5 tests
-7. Reviewer approves
+7. Reviewer approves 
 
 This proves real agent collaboration rather than a single-shot code generator.
 
