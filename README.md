@@ -50,7 +50,7 @@ Edit `.env` as needed. The default backend URL is `http://localhost:8000`.
 ### 3. Start Backend
 
 ```bash
-# In a new terminal
+# In a new terminal 
 pip install -r backend/requirements.txt
 python -m uvicorn backend.main:app --host 0.0.0.0 --port 8000 --reload
 ```
