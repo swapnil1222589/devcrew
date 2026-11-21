@@ -41,7 +41,7 @@ npm install
 
 ### 2. Environment
 
-```bash
+```bash 
 cp .env.example .env
 ```
 
