@@ -63,7 +63,7 @@ npm run dev
 
 Visit `http://localhost:3000`.
 
-## Demo Mode
+## Demo Mode 
 
 Click **Demo Mode** in the sidebar, or click the **🚀 Start DevCrew** button with the default request. The demo automatically runs the classic average-function scenario:
 
