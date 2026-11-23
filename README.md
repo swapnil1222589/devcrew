@@ -14,7 +14,7 @@ DevCrew is a team of specialized AI agents that collaborate on real software eng
 
 The prototype intentionally demonstrates a failure-and-fix cycle so judges can see real agent collaboration in action. 
 
-## Architecture
+## Architecture 
 
 ```
 Frontend (Next.js + React + Tailwind)
