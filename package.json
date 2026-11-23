@@ -6,7 +6,7 @@
     "build": "next build",  
     "start": "next start",
     "lint": "eslint .", 
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit" 
   },
   "dependencies": {
     "dotenv": "17.3.1",
