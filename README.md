@@ -39,7 +39,7 @@ cd devcrew
 npm install
 ``` 
 
-### 2. Environment
+### 2. Environment 
 
 ```bash 
 cp .env.example .env
