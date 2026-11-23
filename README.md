@@ -45,7 +45,7 @@ npm install
 cp .env.example .env
 ```
 
-Edit `.env` as needed. The default backend URL is `http://localhost:8000`.
+Edit `.env` as needed. The default backend URL is `http://localhost:8000`. 
 
 ### 3. Start Backend
 
