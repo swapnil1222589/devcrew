@@ -1,6 +1,6 @@
 # DevCrew — Multi-Agent AI Software Engineering Team.
 
-A polished hackathon prototype demonstrating a collaborative multi-agent AI engineering platform. 
+A polished hackathon prototype demonstrating a collaborative multi-agent AI engineering platform.  
 
 ## Concept   
 
