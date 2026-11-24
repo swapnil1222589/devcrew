@@ -14,7 +14,7 @@ const globalForDb = globalThis as typeof globalThis & {
 export const pool =
   globalForDb.__arenaNextJsPostgresqlPool ?? 
   new Pool({ 
-    connectionString: databaseUrl, 
+    connectionString: databaseUrl,  
   });  
  
 if (process.env.NODE_ENV !== "production") { 
