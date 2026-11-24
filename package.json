@@ -7,7 +7,7 @@
     "start": "next start",
     "lint": "eslint .",  
     "typecheck": "tsc --noEmit" 
-  }, 
+  },  
   "dependencies": {
     "dotenv": "17.3.1",
     "drizzle-orm": "0.45.2",                   
