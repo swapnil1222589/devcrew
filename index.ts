@@ -17,7 +17,7 @@ export const pool =
     connectionString: databaseUrl, 
   });  
  
-if (process.env.NODE_ENV !== "production") {
+if (process.env.NODE_ENV !== "production") { 
   globalForDb.__arenaNextJsPostgresqlPool = pool;
 } 
 
