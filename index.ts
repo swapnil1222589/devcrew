@@ -7,7 +7,7 @@ if (!databaseUrl) {
   throw new Error("DATABASE_URL is required");  
 }
 
-const globalForDb = globalThis as typeof globalThis & { 
+const globalForDb = globalThis as typeof globalThis & {  
   __arenaNextJsPostgresqlPool?: Pool;
 };   
 
