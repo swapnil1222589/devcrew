@@ -13,7 +13,7 @@ const globalForDb = globalThis as typeof globalThis & {
 
 export const pool =
   globalForDb.__arenaNextJsPostgresqlPool ??
-  new Pool({
+  new Pool({ 
     connectionString: databaseUrl, 
   });  
 
