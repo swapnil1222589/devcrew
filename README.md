@@ -8,7 +8,7 @@ DevCrew is a team of specialized AI agents that collaborate on real software eng
 
 - **Planner Agent** — Decomposes requirements
 - **Coder Agent** — Writes and fixes code
-- **Reviewer Agent** — Reviews against requirements
+- **Reviewer Agent** — Reviews against requirements 
 - **Tester Agent** — Runs real Python tests in a safe sandbox
 - **Orchestrator** — Manages the Plan → Code → Review → Test → Fix → Verify loop
 
