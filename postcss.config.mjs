@@ -3,6 +3,6 @@ const postcssConfig = {
     "@tailwindcss/postcss": {},
   },
 };
- 
+  
 export default postcssConfig;
   
