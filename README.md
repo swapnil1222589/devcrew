@@ -21,7 +21,7 @@ Frontend (Next.js + React + Tailwind)
       │
       ▼
 FastAPI Backend (Agent Orchestration + SSE Streaming)
-      │
+      │ 
       ├── Planner Agent
       ├── Coder Agent
       ├── Reviewer Agent
