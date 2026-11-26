@@ -11,7 +11,7 @@ const globalForDb = globalThis as typeof globalThis & {
   __arenaNextJsPostgresqlPool?: Pool;
 };   
 
-export const pool = 
+export const pool =  
   globalForDb.__arenaNextJsPostgresqlPool ?? 
   new Pool({ 
     connectionString: databaseUrl,  
